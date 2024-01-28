@@ -10,3 +10,7 @@ Jaccard Similarity Coefficient, also known as Jaccard index, is a statistic to m
 ```
 python3 main.py
 ```
+
+### Credits
+
+Code by [GeeksforGeeks](https://www.geeksforgeeks.org/how-to-calculate-jaccard-similarity-in-python/).

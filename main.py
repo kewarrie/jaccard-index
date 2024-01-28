@@ -9,7 +9,6 @@ J(A,B) = -----------
 
 By design: 0 <= J(A,B) <= 1
 
-Source: https://www.geeksforgeeks.org/how-to-calculate-jaccard-similarity-in-python/
 '''     
 
 A = {1, 2, 3, 4, 6}
